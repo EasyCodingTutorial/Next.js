@@ -1,0 +1,27 @@
+.container {
+  text-align: center;
+  padding: 12rem;
+}
+.title {
+  font-size: 30px;
+}
+.details {
+  border: 2px solid #000;
+  padding: 20px;
+}
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+.label {
+  font-size: 40px;
+  color: rgb(66, 66, 66);
+}
+.value {
+  font-size: 45px;
+  margin: 0;
+  margin-left: 1rem;
+  text-align: center;
+}
